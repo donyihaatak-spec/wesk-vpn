@@ -4,8 +4,7 @@
 
 ![Скриншот Wesk](screenshot.png)
 
-> **Скриншот:** положи файл `screenshot.png` в **корень репозитория** (рядом с этим README).  
-> Сделай скрин окна приложения после `npm run tauri:dev` → Win+Shift+S → сохрани как `screenshot.png`.
+
 
 ## Возможности
 
