@@ -1,0 +1,19 @@
+<svg width="1024" height="1024" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="48" height="48" fill="#0a0a0e"/>
+  <defs>
+    <linearGradient id="wesk-grad" x1="6" y1="42" x2="42" y2="6" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ff6b4a"/>
+      <stop offset="50%" stop-color="#f43f8f"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="14" fill="url(#wesk-grad)" opacity="0.2"/>
+  <path
+    d="M8 14 L14 34 L24 18 L34 34 L40 14"
+    stroke="url(#wesk-grad)"
+    stroke-width="3.8"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <circle cx="24" cy="38" r="2.5" fill="url(#wesk-grad)" opacity="0.85"/>
+</svg>
